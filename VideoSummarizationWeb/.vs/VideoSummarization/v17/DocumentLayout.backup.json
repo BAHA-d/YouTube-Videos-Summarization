@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\views\\videosummarize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\views\\videosummarize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\controllers\\videosummarizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\controllers\\videosummarizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|c:\\users\\gts_e\\downloads\\videosummarization full\\videosummarizationweb\\videosummarization\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E7F8C5-DB8D-422B-AC10-57F3D16B7789}|VideoSummarization\\VideoSummarization.csproj|solutionrelative:videosummarization\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "VideoSummarization\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "VideoSummarization\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T15:17:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VideoSummarization\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VideoSummarization\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T15:06:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\VideoSummarize\\Index.cshtml",
+              "RelativeDocumentMoniker": "VideoSummarization\\Views\\VideoSummarize\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Views\\VideoSummarize\\Index.cshtml",
+              "RelativeToolTip": "VideoSummarization\\Views\\VideoSummarize\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T12:45:07.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoSummarizeController.cs",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\VideoSummarizeController.cs",
+              "RelativeDocumentMoniker": "VideoSummarization\\Controllers\\VideoSummarizeController.cs",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\VideoSummarizeController.cs",
+              "RelativeToolTip": "VideoSummarization\\Controllers\\VideoSummarizeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:39:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VideoSummarization\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VideoSummarization\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:27:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VideoSummarization\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VideoSummarization\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:27:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "VideoSummarization\\Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "VideoSummarization\\Controllers\\ExamsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:26:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "VideoSummarization\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\gts_e\\Downloads\\VideoSummarization Full\\VideoSummarizationWeb\\VideoSummarization\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "VideoSummarization\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:26:27.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

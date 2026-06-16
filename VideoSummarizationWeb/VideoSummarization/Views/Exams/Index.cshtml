@@ -1,0 +1,58 @@
+﻿@model IEnumerable<VideoSummarization.Models.Exam>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center ">
+    <div class="col-lg-10 mt-2">
+
+        <h1>Exams</h1>
+
+    </div>
+</div>
+
+<div class="row justify-content-center mb-5">
+    <div class="card col-lg-10">
+        <div class="card-body">
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Video)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Result)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DateTime)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Video)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Result)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateTime)
+                            </td>
+                            <td>
+                                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

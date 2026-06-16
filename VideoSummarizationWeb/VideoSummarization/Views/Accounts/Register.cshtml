@@ -1,0 +1,55 @@
+﻿@model User
+
+<section id="Login" class="form_style">
+    <div class="container">
+        <div class="section-title" data-aos="zoom-in">
+            <h2>Register</h2>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="login_form col-lg-6 mt-3 mt-lg-0"
+                 style="border: 1px solid #f3f8ec"
+                 data-aos="fade-left">
+                <form asp-controller="Accounts" asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <label asp-for="Name" class="form-label"></label>
+                            <input asp-for="Name" class="form-control">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <label asp-for="Email" class="form-label"></label>
+                            <input asp-for="Email" class="form-control">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <label asp-for="Phone" class="form-label"></label>
+                            <input asp-for="Phone" class="form-control" >
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <label asp-for="Password" class="form-label"></label>
+                            <input asp-for="Password" class="form-control">
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-3 mb-3">
+                        <button type="submit">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

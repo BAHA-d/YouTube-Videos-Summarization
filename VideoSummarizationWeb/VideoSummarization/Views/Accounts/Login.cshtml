@@ -1,0 +1,46 @@
+﻿@model User
+
+<section id="Login" class="form_style">
+    <div class="container">
+        <div class="section-title" data-aos="zoom-in">
+            <h3><span>Log In</span></h3>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="login_form col-lg-6 mt-3 mt-lg-0"
+                 style="border: 1px solid #f3f8ec"
+                 data-aos="fade-left">
+
+                <form asp-action="Login" method="post">
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <input asp-for="Email" class="form-control" placeholder="Your Email">
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-center mt-3 mb-3">
+                        <div class="col-lg-8 form-group mt-3 mt-md-0">
+                            <input asp-for="Password" class="form-control" placeholder="Your Password">
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-3 mb-3">
+                        <button type="submit">Log In</button>
+                    </div>
+
+                </form>
+
+                <hr />
+                <div class="text-center mt-3 mb-3">
+                    <a asp-action="Register"> <button type="submit">Create Account</button> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
