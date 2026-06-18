@@ -1,41 +1,116 @@
-# 🎥 YouTube Videos Summarization Project
+# 🎥 YouTube Videos Summarization
 
-### 📝 Project Description
-An advanced web application designed to summarize YouTube videos efficiently. The system extracts transcripts and audio from YouTube videos and utilizes AI models to generate concise, accurate, and structured text summaries, saving users valuable time and effort.
-
----
-
-## 🛠️ Technologies Used
-
-### Backend & AI Processing (Django)
-* **Python & Django Framework:** Powers the backend processing and robust REST APIs.
-* **AI & NLP Models:** Utilized for smart text summarization and semantic analysis of video transcripts.
-* **FFmpeg Core Tools:** Handles media, audio extraction, and processing (`ffmpeg`, `ffprobe`, `ffplay`).
-
-### Web Application & UI (.NET C#)
-* **ASP.NET Core MVC (C#):** Provides the main graphical user interface, user authentication, and core dashboard.
-* **Entity Framework Core:** Manages database operations, user records, and generated summary history.
-* **Bootstrap & Frontend Assets:** Ensures a clean, modern, and fully responsive user interface (UI).
+An AI-powered web application that automatically extracts transcripts from YouTube videos and generates concise, structured summaries — saving users time and effort.
 
 ---
 
-## 🚀 Core Features
-1. **Automated Transcript Extraction:** Fetches precise video transcripts and conversations directly from YouTube.
-2. **AI-Powered Summarization:** condenses lengthy video content into clear, structured, and bulleted main points.
-3. **User Management System:** Complete authentication workflow including secure registration, login, and profile control.
-4. **Interactive Dashboard:** A seamless control panel to manage summarized videos and track user activities.
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Video Summarization
+![Summarize Page](screenshots/summarize.png)
+
+### Summary Result
+![Result](screenshots/result.png)
+
+### Login Page
+![Login](screenshots/login.png)
 
 ---
 
-## ⚙️ How to Run
+## ✨ Features
 
-### 1️⃣ Running the Django Backend (API)
+- 🔗 Paste any YouTube video URL and get an instant summary
+- 🎙️ Audio extraction using **FFmpeg** + transcription using **OpenAI Whisper**
+- 🤖 AI-powered text summarization
+- 📋 Side-by-side view of full transcript and summary
+- 📥 Download summary as a file
+- 👤 User authentication (Register / Login / Logout)
+- 📊 Personal dashboard to track summarized videos
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & AI (Django)
+| Technology | Purpose |
+|---|---|
+| Python & Django | Backend logic and REST API |
+| OpenAI Whisper | Speech-to-text transcription |
+| FFmpeg | Audio extraction from YouTube videos |
+| Django REST Framework | API endpoints |
+| JWT Authentication | Secure user sessions |
+
+### Frontend & Web App (ASP.NET)
+| Technology | Purpose |
+|---|---|
+| ASP.NET Core MVC (C#) | Web interface and user dashboard |
+| Entity Framework Core | Database management |
+| Bootstrap | Responsive UI design |
+
+---
+
+## ⚙️ How It Works
+
+```
+YouTube URL
+    ↓
+Extract Audio (FFmpeg)
+    ↓
+Transcribe Audio to Text (Whisper AI)
+    ↓
+Summarize Text (AI Model)
+    ↓
+Display Transcript + Summary
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.9+
+- .NET 6+
+- FFmpeg installed on your system
+
+### 1️⃣ Run the Django Backend (API)
+
 ```bash
-# Navigate to the backend directory
-cd "API/Django final API/Foodiez_backend"
+# Navigate to the API directory
+cd API
 
-# Install the required Python dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-# Start the development server
+# Run the server
 python manage.py runserver
+```
+
+### 2️⃣ Run the ASP.NET Frontend
+
+```bash
+# Navigate to the web app directory
+cd VideoSummarizationWeb
+
+# Run the application
+dotnet run
+```
+
+### 3️⃣ Open in Browser
+
+```
+http://localhost:7016
+```
+
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+> Built with ❤️ as a graduation project — Jordan, 2025
