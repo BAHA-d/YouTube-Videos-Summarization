@@ -6,17 +6,18 @@ An AI-powered web application that automatically extracts transcripts from YouTu
 
 ## 📸 Screenshots
 
+### Login Page
+<img width="1918" height="1078" alt="login" src="https://github.com/user-attachments/assets/4fd83b43-fd81-4ba3-87f1-8fb4e8d09ccc" />
+
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1918" height="1075" alt="home" src="https://github.com/user-attachments/assets/abaa0408-815e-4280-bd18-6976c8276e05" />
 
 ### Video Summarization
-![Summarize Page](screenshots/summarize.png)
+<img width="1918" height="1078" alt="summarize" src="https://github.com/user-attachments/assets/6a5333ba-e24a-4de3-98f0-e817bbbe25e8" />
 
 ### Summary Result
-![Result](screenshots/result.png)
+<img width="1918" height="1077" alt="result" src="https://github.com/user-attachments/assets/07048b24-e27d-465a-b956-f1954c69dc9a" />
 
-### Login Page
-![Login](screenshots/login.png)
 
 ---
 
