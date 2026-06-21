@@ -25,3 +25,8 @@ toml
 tomli
 typing_extensions
 django-cors-headers
+pytubefix 
+pydub
+openai-whisper
+numpy
+spacy
